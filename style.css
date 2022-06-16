@@ -1,0 +1,38 @@
+* {
+  background: rgb(241, 236, 236);
+  color: rgb(8, 5, 5);
+  font-family: avenir, arial;
+  padding: 2px;
+  border-radius: 10px;
+}
+#download-page-as-image {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background: rgb(77, 70, 76);
+  color: rgb(241, 221, 221);
+}
+#square {
+  width: 40px;
+  height: 40px;
+  background: red;
+  font-weight: 500;
+}
+#square2 {
+  width: 40px;
+  height: 40px;
+  color: rgb(85, 92, 163);
+  background: rgb(0, 255, 128);
+  font-weight: 500;
+}
+#square3 {
+  width: 80px;
+  height: 50px;
+  background: #ffd700;
+  color: rgb(241, 221, 221);
+}
+#goal {
+  /* width: 80px;
+  height: 50px; */
+  color: #ffff;
+  background: #ffd700;
+}
